@@ -7,7 +7,7 @@
     "mavenUrls": [
       "https://jitpack.io"
     ],
-    "jsonUrl": "https://atlantis2679.github.io/AtlantisKit/AtlantisKit.json",
+    "jsonUrl": "https://yonatanbrot.github.io/AtlantisKit/AtlantisKit.json",
     "javaDependencies": [
       {
         "groupId": "com.github.Atlantis2679",
